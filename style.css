@@ -1,0 +1,32 @@
+
+/* 
+	STYLE.CSS:
+	One stylesheet to rule them all.
+	
+	selector { property:value }
+	
+*/
+body {
+  background-color: lightyellow;
+  font-family: Georgia, 'Times New Roman', serif;
+  color: navy
+
+}
+
+img {
+  width: 600px;
+  padding: 20px;
+  margin: 50px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 25px;
+  padding: 20px;
+  height: 20px;
+}
+
+h2, h3 {
+  font-size: 18px;
+}
